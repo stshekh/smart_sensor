@@ -31,6 +31,10 @@
   https://leanpub.com/kolban-ESP32
 - **Mastering STM32 — Carmine Noviello**  
   https://leanpub.com/mastering-stm32
+- **Embedded Systems Architecture — Daniele Lacamera (2nd Edition)**
+  Отличная книга для понимания архитектуры, RTOS, IoT протоколов и построения профессиональных прошивок.
+  https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781788832502
+  https://www.oreilly.com/library/view/embedded-systems-architecture/9781803239545/
 
 ## Видео
 - ESP32 полный курс:  
@@ -178,6 +182,11 @@
 - Подключение датчиков  
 - Архитектура прошивки  
 - OTA обновления
+
+## Недели 3–4 (дополнение)
+- Чтение "Embedded Systems Architecture — Lacamera"
+- Проработка архитектуры прошивки, RTOS, планировщики
+- Разработка каркаса прошивки для будущего MVP
 
 ## Недели 5–6
 - MQTT  
